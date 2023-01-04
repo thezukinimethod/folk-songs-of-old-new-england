@@ -1,0 +1,766 @@
+
+
+X:2
+T:Did You Ever See A Lassie?
+%%score 1 { 2 | 3 }
+L:1/4
+Q:1/4=180
+M:3/4
+I:linebreak $
+K:G
+V:1 treble nm="Violin"
+V:2 treble nm="Piano"
+V:3 bass 
+V:1
+G/B/ |:"G" d3/2 e/ d/c/ | B G G |"D" A D D |"G" B G G/B/ |$"G" d3/2 e/ d/c/ | B G G |"D" A D D | 
+w: Did you|ev- er see a|lass- ie, a|lass- ie, a|lass- ie, Did you|ev- er see a|lass- ie Do|this way and|
+"G" G z F/G/ |$"D" A D D |"G" B G G |"D" A D D |"G" B G G/B/ |$"G" d3/2 e/ d/c/ | B G G | 
+w: that? Do _|this way and|that way, Do|this way and|that way, Did you|ev- er see a|lass- ie Do|
+"D" A D D |"G" G2 z :| 
+w: this way and|that!|
+V:2
+G/B/ |: d3/2 e/ d/c/ | B G G | A D D | B G G/B/ |$ d3/2 e/ d/c/ | B G G | A D D | [DG] z F/G/ |$ 
+A D D | B G G | A D D | B G G/B/ |$ d3/2 e/ d/c/ | B G G | A D D | [DG]2 z :| 
+V:3
+z |: G, B, D | G, B, D | F, A, C | G, B, D |$ G, B, D | G, B, D | D, F, C | [G,B,] z z |$ 
+D, C F, | G, B, D | D, C F, | G, D B, |$ G, B, D | G, B, D | D, F, C | [G,B,]2 z :| 
+
+X:3
+T:The Farmer In The Dell 
+%%score 1 { 2 | 3 }
+L:1/8
+Q:3/8=100
+M:6/8
+I:linebreak $
+K:G
+V:1 treble nm="Violin"
+V:2 treble nm="Piano"
+V:3 bass 
+V:1
+D |: G2 G G2 G | G3 z2 G | B2 B B2 B | B3 z2 z |$ d3 d2 e | d2 B G2 A | B2 B A2 A | G3 z2 D |$ 
+w: The|farm- er in the|dell, The|farm- er in the|dell,|Heigh- O, the|mer- ry O, The|farm- er in the|dell. The|
+w: |||||||||
+w: |||||||||
+G2 G G2 G | G3 z2 G | B2 B B2 B | B3 z2 z |$ d3 d2 e | d2 B G2 A | B2 B A2 A | G3 z2 z :| 
+w: Farm- er takes a|wife, The|farm- er takes a|wife,|Heigh- O, the|mer- ry O, The|farm- er takes a|wife.|
+w: Wife * takes the|child The|wife * takes the|child|||||
+w: Child * takes the|nurse *|||||||
+V:2
+D |: [B,G]2 [B,G] [B,G]2 [B,G] | [B,G]3 z2 G | [DB]2 [DB] [DB]2 [DB] | [DB]3 z2 z |$ 
+[Gd]3 [Gd]2 e | [Gd]2 B [DG]2 A | [DB]2 [DB] [CA]2 [CA] | [B,G]3 z2 D |$ 
+[B,G]2 [B,G] [B,G]2 [B,G] | [B,G]3 z2 G | [DB]2 [DB] [DB]2 [DB] | [DB]3 z2 z |$ [Gd]3 [Gd]2 e | 
+[Gd]2 B [DG]2 A | [DB]2 [DB] [CA]2 [CA] | [B,G]3 z2 z :| 
+V:3
+z |: [G,,D,]3- [G,,D,]3 | [G,,D,]3- [G,,D,]3 | [G,,D,]3- [G,,D,]3 | [G,,D,]3- [G,,D,]3 |$ 
+[D,B,]3- [D,B,]3 | [D,B,]3- [D,B,]3 | [D,G,]3 [D,F,]3 | [G,,D,]3 z2 z |$ [G,,D,]3- [G,,D,]3 | 
+[G,,D,]3- [G,,D,]3 | [G,,D,]3- [G,,D,]3 | [G,,D,]3- [G,,D,]3 |$ [D,B,]3- [D,B,]3 | 
+[D,B,]3- [D,B,]3 | [D,G,]3 [D,F,]3 | [G,,D,]3 z2 z :| 
+
+
+
+
+X:4
+T:Go In And Out The Windows
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=100
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Violin"
+V:2 treble stafflines=5 nm="Piano"
+V:3 bass 
+V:1
+A2 |:"F" CF A>B"C" A G2 G |"C" CE G>A"F" G F2 A |$"F" CF A>B"C" A G2 G/G/ |"C" ccBG"F" F2 A2 |$ 
+w: Go|in and out the win- dows, Go|in and out the win- dows, Go|in and out the win- dows, Till the|high- land gates are closed. Go|
+w: Go|forth and meet your lov- er, Go|forth and meet your lov- er. Go|forth and meet your lov- er, Till the|high- land gates are closed. Kneel|
+"F" CF A>B"C" A G2 G |"C" CE G>A"F" G F2 A |$"F" CF A>B"C" A G2 G/G/ |"C" ccBG"F" F2-"C" F z :| 
+w: up and down the va- ley, Go|up and down the val- ley, Go|up and down the val- ley, Till the|high- land gaes are closed. _|
+w: down and kiss your lov- er, Kneel|down and kiss your lov- er. Kneel|down and kiss your lov- er, Till the|high- land gates are closed. _|
+V:2
+A2 |: C F A3/2 B/ A G2 G | C E G3/2 A/ G F2 A |$ C F A3/2 B/ A G2 G/ G/ | c c B G F2- F z |$ 
+C F A3/2 B/ A G2 G | C E G3/2 A/ G F2 A |$ C F A3/2 B/ A G2 G/ G/ | c c B G F2- F z :| 
+V:3
+z2 |: F, C A, C E, C B, C | C, B, E, B, F, C A, C |$ F, C A, C E, C B, C | 
+C, B, E, B, F, C F, z |$ F, C A, C E, C B, C | C, B, E, B, F, C A, C |$ F, C A, C E, C B, C | 
+C, B, E, B, F, C F, z :| 
+
+
+
+
+X:5
+T:Green Gavel
+%%score 1 { ( 2 4 ) | 3 }
+L:1/4
+Q:1/4=120
+M:3/4
+I:linebreak $
+K:F
+V:1 treble nm="Violin"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:1
+C |:"F" F A C | F A c |"C7" B A G |"F" F z C |$"F" F A C | F A c |"C7" B A G |"F" F z C |$ 
+w: Green|grav- el, green|grav- el, The|grass is so|green, Through|all the cre-|a- tion A|sight to be|seen! Oh,|
+"F" F A C | F A c |"C7" B A G |"F" F z C |$"F" F A c | F A c |"C7" B A G |"F""C" F2 z :| 
+w: Mar- y, oh,|Mar- y, Your|true love is|dead, He|sent you a|let- ter, Pray,|turn back your|head.|
+V:2
+C |: F A C | F A c | B A G | [A,CF] z C |$ F A C | F A c | B A G | [A,CF] z C |$ F A C | F A c | 
+B A G | [A,CF] z C |$ F A C | F A c | B A G | [A,CF] z C :| 
+V:3
+z |: F,, C, F, | F,, C, F, | C,, F,, C, | F,, C, F, |$ F,, C, F, | F,, C, F, | C,, F,, C, | 
+[F,,C,]2 z |$ F,, C, F, | F,, C, F, | C,, F,, C, | F,, C, F, |$ F,, C, F, | F,, C, F, | 
+C,, F,, C, | [F,,C,]2 z :| 
+V:4
+x |: [A,C] z x | [A,C] z z | [CE] z [B,E] | x3 |$ [A,C] z x | [A,C] z z | [CE] z [B,E] | x3 |$ 
+[A,C] z x | [A,C] z z | [CE] z [B,E] | x3 |$ [A,C] z x | [A,C] z z | [CE] z [B,E] | x3 :| 
+
+
+
+X:6
+T:Green Grow the rushes O
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=80
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Violin"
+V:2 treble nm="Piano"
+V:3 bass 
+V:1
+|: A2 A>B AF D2 | B2 B>c dB A2 |$ dcBA Bc d2 | D/E/F/G/ A/B/A/G/ FE D2 |$ AA A>B A/A/F D2 | 
+w: Green grow the rush- es, oh!|Green grow the rush- es oh!|Kiss her quick and let her go!|Nev- er mind the we- ther, if the wind don't blow!|Tho' she wears a check- ered silk gown,|
+B2 B>c dB A2 |$ dcBA Bc d2 | D/E/F/G/ A/B/A/G/ F[CE] D2 :| 
+w: He she must both kneel down,|Then he'll give her one sweet smack,|And she will of course * re- * turn it back.|
+V:2
+|: [DFA]2 [DFA]>B AF D2 | [DGB]2 [DGB]>c d[DB] [DA]2 |$ [Dd][Dc][DB][DA] [DB][Gc] [Fd]2 | 
+D/E/F/G/ A/B/A/G/ [DF][G,CE] [F,D]2 |$ [DFA]2 [DFA]>B AF D2 | [DGB]2 [DGB]>c d[DB] [DA]2 |$ 
+[Dd][Dc][DB][DA] [DB][Gc] [Fd]2 | D/E/F/G/ A/B/A/G/ [DF][G,CE] [F,D]2 :| 
+V:3
+|: D,,A,,D,A,, D,,A,,F,A,, | G,,D,G,A, B,G, F,2 |$ B,A,G,F, G,E, D,2 | 
+D,,A,,[C,G,]A,, [D,A,]A,, [D,,A,,D,]2 |$ D,,A,,D,A,, D,,A,,F,A,, | G,,D,G,A, B,G, F,2 |$ 
+B,A,G,F, G,E, D,2 | D,,A,,[C,G,]A,, [D,A,]A,, [D,,A,,D,]2 :| 
+
+
+
+X:7
+T:Here Come Three Dukes A riding
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=140
+M:6/8
+I:linebreak $
+K:G
+V:1 treble nm="Violin"
+V:2 treble nm="Piano"
+V:3 bass 
+V:1
+D |: G2 G G2 B | d3 G2 G | A3 A2 A | F3 D2 D |$ G2 G G2 B | d3 G2 G/G/ | d2 c B2 A | GGG G2 z |$ 
+w: Here|come three dukes a-|rid- ing, a-|rid- ing, a-|rid- ing, Here|come three dukes a-|rid- ing, With a|ran- som, tan- som|tid- dy- fi- o.|
+w: Our|good will is to|mar- ry, to|mar- ry, to|mar- ry, Our|good will is to|mar- ry, With a|ran- som, tan- som|tid- dy- fi- o.|
+w: You're|all too black and|dir- ty, *|dir- ty, *|dir- ty. You're|all too black and|dir- ty, With a|ran- som, tan- som|tid- dy- fi- o.|
+w: You're|all as stiff as|po- kers, *|po- kers, *|po- kers. You're|all as stiff as|po- kers, With a|ran- som, tan- som|tid- dy- fi- o.|
+G2 G G2 B | d3 G2 G | A3 A2 A | F3 D2 D |$ G2 G G2 B | d3 G2 G/G/ | d2 c B2 A | G3- G2 z :| 
+w: What is your good|will, sirs, good|will, sirs, good|will, sirs, Oh,|what is your good|will, sirs, With a|ran- som, tan- som|ti?- *|
+w: Mar- ry one of|us, sirs, of|us, sirs, of|us, sirs, Oh,|mar- ry one of|us, sirs, With a|ran- som, tan- som|ti. _|
+w: We're good enough for|you, sir, for|you, sir, for|you sir. We're|good en- ough for|you, sir, with a|ran- som, tan- som|ti _|
+w: We can bend e- nough for|you sir, as|you, sir, as|you sir. We can|||||
+V:2
+D |: [B,G]2 G [B,G]2 B | [Gd]3 [B,G]2 G | [CA]3 [CA]2 [CA] | [CF]3 [CD]2 D |$ [DG]2 G [B,G]2 B | 
+[Gd]3 [B,G]2 G/G/ | [Fd]2 c [FB]2 A | [B,G][B,G][B,G] [B,G]2 z |$ [B,G]2 G [B,G]2 B | 
+[Gd]3 [B,G]2 G | [CA]3 [CA]2 [CA] | [CF]3 [CD]2 D |$ [DG]2 G [B,G]2 B | [Gd]3 [B,G]2 G/G/ | 
+[Fd]2 c [FB]2 A | [B,G]3- [B,G]2 z :| 
+V:3
+z |: G,,2 D, D,,2 D, | G,,2 D, D,,2 D, | F,,2 D, D,,2 D, | F,,2 D, D,,2 D, |$ G,,2 D, D,,2 D, | 
+G,,2 D, D,,2 D, | F,,2 D, D,,2 D, | G,,2 D, D,,2 D, |$ G,,2 D, D,,2 D, | G,,2 D, D,,2 D, | 
+F,,2 D, D,,2 D, | F,,2 D, D,,2 D, |$ G,,2 D, D,,2 D, | G,,2 D, D,,2 D, | F,,2 D, D,,2 D, | 
+G,,2 D, D,,2 D, :| 
+
+
+
+
+
+
+X:8
+T:Here Stands An Old Maid Forsaken
+%%score 1 { ( 2 4 ) | 3 }
+L:1/8
+Q:1/4=100
+M:6/8
+I:linebreak $
+K:G
+V:1 treble nm="Violin"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:1
+D | GGG B2 A | G3 D2 D | EEE F2 E | D3- D2 D |$ G2 G B2 A | G3 D2 D | E2 E FFE | D3- D2 B, |$ 
+w: Here|stands an old maid for-|sak- en, She's|of a con- tent- ed|mind, * She's|lost her own tru|lov- er, And|wants an- oth- er as|kind; * She|
+D2 D [CD]EF | A3 D2 D | E2 E A2 A | D3- D2 D |$ G2 G B2 A | G2 G [B,D]2 B, | DDD DEF | 
+w: wants an- oth- er as|kind, sir. I'll|have you all to|know, * She's|ver- y well pro-|vid- ed for, With|fort- y five strings to her|
+(GB,C D2) G |$ DDD DEF | G3- G2 z |] 
+w: bow, _ _ _ With|fort- y- five- strings to her|bow! *|
+V:2
+D | GGG B2 A | [B,G]3 [B,D]2 D | EEE F2 E | D3- D2 D |$ G2 G B2 A | G3 D2 D | E2 E FFE | 
+D3- D2 B, |$ [B,D]2 D [CD]EF | A3 D2 D | E2 E A2 A | D3- D2 D |$ G2 G B2 A | [B,G]2 G [B,D]2 B, | 
+[B,D]DD [CD]EF | ([B,G][G,B,][A,C] [B,D]2) G |$ [B,D]DD [CD]EF | [B,G]3- [B,G]2 z |] 
+V:3
+z | [G,,D,]3 [G,,D,]3 | [G,,D,]3 [G,,D,]3 | [C,G,]3 [C,G,]3 | [D,F,A,]3- [D,F,A,]2 z |$ 
+[G,,D,]3 [G,,D,]3 | [G,,D,]3 [G,,D,]3 | [C,G,]3 [C,G,]3 | [D,F,A,]3- [D,F,A,]2 z |$ 
+[G,,D,]3 [D,A,]3 | [D,F,]3 [D,F,]2 z | [C,G,]3 [C,G,]3 | [D,F,A,]3- [D,F,A,]2 z |$ 
+[G,,D,]3 [G,,D,]3 | [G,,D,]3 [G,,D,]3 | [G,,D,]3 [D,A,]3 | [G,,D,]3 [G,,D,]3 |$ [G,,D,]3 [D,A,]3 | 
+[G,,D,G,]3- [G,,D,G,]3 |] 
+V:4
+x | D3 D3 | x6 | C3 C3 | C3- C2 x |$ D3 D3 | B,3 B,3 | C3 C3 | x6 |$ x6 | C3 C3 | C3 C3 | 
+C3- C2 x |$ B,3 D3 | z6 | x6 | x6 |$ x6 | x6 |] 
+
+
+
+X:9
+T:Here We Go Gathering Nuts In May
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=100
+M:6/8
+I:linebreak $
+K:G
+V:1 treble nm="Violin"
+V:2 treble nm="Piano"
+V:3 bass 
+V:1
+|:"G" GGG GBd | d2 B G3 |"D" A2 A A3 | F2 E D3 |$"G" GGG GBd | d2 B G2 G/G/ |"D" A2 A D2 D | 
+w: Here we go gath- er- ing|nuts in May,|nuts in May,|nuts in May,|Here we go gath- er- ing|nuts in May, on a|cold and fros- ty|
+"G" G3 G2 z :| 
+w: morn- ing.|
+V:2
+|: [B,G]G[B,G] GBd | [Bd]2 B [B,G]3 | [FA]2 A [FA]3 | [DF]2 E [A,CD]3 |$ [B,G]G[B,G] GBd | 
+[Bd]2 B [B,G]2 G/G/ | [CA]2 [CA] [A,CD]2 D | [B,G]3 [B,G]2 z :| 
+V:3
+|: [G,,D,G,]3 [G,,D,G,]3 | [G,,D,G,]3 [G,,D,G,]3 | [D,,A,,D,]3 [D,,A,,D,]3 | 
+[D,,A,,D,]3 [F,,D,F,]3 |$ [G,,D,G,]3 [G,,D,G,]3 | [G,,D,G,]3 [G,,D,G,]3 | 
+[D,,A,,D,]3 [D,,A,,D,]3 | [G,,D,G,]3 [G,,D,G,]3 :| 
+
+
+
+X:10
+T:How Many Miles To London Town?
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=60
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Violin"
+V:2 treble nm="Piano"
+V:3 bass 
+V:1
+|: (3FAF D>A, B,>D A,2 | A2 F>E [CE]4 |$ (3FAF D>A, B,>D A,2 | A>F E>D [A,D]4 |$ 
+w: How man- y miles to Lon- don town?|Four- score and ten!|Can I get there by can- dle light?|Yes! and back a- gain!|
+(3FAF D>A, B,>D A,2 | A2 F>E [CE]4 |$ (3FAF D>A, B,>D A,2 | A>F E>D [A,D]4 :| 
+w: O- pen the gate and let me pass!|Toll first you pay!|I have no gold, what shall I do?|Turn and go a- way.|
+V:2
+|: (3FAF D>A, B,>D A,2 | A2 F>E [CE]4 |$ (3FAF D>A, B,>D A,2 | A2 F>E [A,D]4 |$ 
+(3FAF D>A, B,>D A,2 | A2 F>E [CE]4 |$ (3FAF D>A, B,>D A,2 | A2 F>E [A,D]4 :| 
+V:3
+|: [D,,A,,D,]2 [D,,A,,D,]2 [G,,D,G,]2 [D,,A,,D,]2 | [D,,A,,D,]2 [D,,A,,D,]2 [A,,E,A,]4 |$ 
+[D,,A,,D,]2 [D,,A,,D,]2 [G,,D,G,]2 [D,,A,,D,]2 | [D,,A,,D,]2 [A,,E,G,]2 [D,,A,,D,]4 |$ 
+[D,,A,,D,]2 [D,,A,,D,]2 [G,,D,G,]2 [D,,A,,D,]2 | [D,,A,,D,]2 [D,,A,,D,]2 [A,,E,A,]4 |$ 
+[D,,A,,D,]2 [D,,A,,D,]2 [G,,D,G,]2 [D,,A,,D,]2 | [D,,A,,D,]2 [A,,E,G,]2 [D,,A,,D,]4 :| 
+
+
+
+X:11
+T:I Am A Rich Widow
+%%score 1 { 2 | ( 3 4 ) }
+L:1/4
+Q:1/4=100
+M:3/4
+I:linebreak $
+K:G
+V:1 treble nm="Violin"
+V:2 treble nm="Piano"
+V:3 bass 
+V:4 bass 
+V:1
+D/ | G G A | B B A | G G E | D2 D | G G A | B B c | d d e | d3 |$ G G A | B B A | G G E | D3 | 
+w: I|am a rich|wid- ow, I|live all a-|lone; I|have but one|daugh- ter, And|she is my|own,|Daugh- ter, oh,|daugh- ter, Go|choose you a|man,|
+G G A | B d G | B/A/ G/ z/ z/ D/ |$ G G A | B B A | G G E | D2 D | G G A | B B c | d d e |$ d3 | 
+w: Choose you a|good one, Or|else choose none. I've|married off my|daugh- ter, I've|given her a-|way, I've|married off my|daugh- ter, She's|bound to o-|bey,|
+G G A | B B A | G G E | D3 | G G A | B d G | B/A/ G/ z/ z |] 
+w: Bound to o-|bey and she'll|never dis- a-|gree,|So as we|go'round kiss her|one,two, * THREE!|
+V:2
+D/ | [DG] [DG] [CFA] | B [B,GB] [CFA] | G [CG] [CE] | [B,D]2 D | G [B,G] [CFA] | B [B,GB] [DFc] | 
+d [DGd] [EGe] | d [DG] [DG] |$ G [B,G] [CFA] | B [B,GB] [CFA] | G [CG] [CE] | [B,D]3 | 
+G [B,G] [CFA] | B [DBd] [DG] | [DGB]/[CFA]/ [B,G]/ z/ z |$ [DG] [DG] [CFA] | B [B,GB] [CFA] | 
+G [CG] [CE] | [B,D]2 D | G [B,G] [CFA] | B [B,GB] [DFc] | d [DGd] [EGe] |$ d [DG] [DG] | 
+G [B,G] [CFA] | B [B,GB] [CFA] | G [CG] [CE] | [B,D]3 | G [B,G] [CFA] | B [DBd] [DG] | 
+[DGB]/[CFA]/ [B,G]/ z/ z |] 
+V:3
+z/ | z D, D, | z D, D, | z E, F, | G, D, B,, | z D, D, | z D, z | z G, G, | z G, G, |$ G,, D, D, | 
+G,, D, D, | G,, E, F, | G, D, B,, | G,, D, D, | G,, D, B,, | D,/D,,/ [G,,D,]/ z/ z |$ z D, D, | 
+z D, D, | z E, F, | G, D, B,, | z D, D, | z D, z | z G, G, |$ z G, G, | G,, D, D, | G,, D, D, | 
+G,, E, F, | G, D, B,, | G,, D, D, | G,, D, B,, | D,/D,,/ [G,,D,]/ z/ z |] 
+V:4
+x/ | G,,2 z | G,,2 z | G,,3 | x3 | G,,2 z | G,,2 A,, | B,,2 C, | B,,2 z |$ z3 | x3 | x3 | x3 | 
+x3 | x3 | x3 |$ G,,2 z | G,,2 z | G,,3 | x3 | G,,2 z | G,,2 A,, | B,,2 C, |$ B,,2 z | z3 | x3 | 
+x3 | x3 | x3 | x3 | x3 |] 
+
+
+
+X:12
+T:I'll Give To You A Paper Of Pins
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=120
+M:6/8
+I:linebreak $
+K:G
+V:1 treble nm="Violin"
+V:2 treble nm="Piano"
+V:3 bass 
+V:1
+D |:"G" G2 G G2 G | BdB G2 G |"D" F2 F F2 F | F2 F D2 D |$"G" G2 G G2 G | BdB G2 G |"D" A2 A FEF | 
+w: I'll|give to you a|pa- per of pins, For|that's the way that|love be- gins, I'll|give to you a|pa- per of pins, If|you will mar- * ry|
+w: Oh|I will give you a|coach * and six, And|eve- ry horse as|black as pitch, Oh|I will give you a|coach * and six, If|you will mar- * ry|
+"G" G2 z z2 D |$"G" G2 G G2 G | BdB G2 G |"D" F2 F F2 F | F2 F D2 D |$"G" G2 G G2 G | BdB G2 G | 
+w: me. *|I don't want your|pa- per of pins, If|that's the way that|love be- gins, Oh|I don't want your|pa- per of pins, And|
+w: me. Oh,|I don't want your|coach _ and six, *|Coach and six, *|coach and six, Oh|I don't want your|coach * and six, and|
+"D" A2 A FEF |"G" G2 z z2 D :| 
+w: I won't mar- * ry|you! *|
+w: I won't mar- * ry|you! *|
+V:2
+D |: G2 G GGG | BdB G2 G | FFF FFF | FAF D2 D |$ G2 G GGG | BdB G2 G | A2 A FEF | G2 z z2 D |$ 
+G2 G GGG | BdB G2 G | FFF FFF | FAF D2 D |$ G2 G GGG | BdB G2 G | A2 A FEF | G2 z z3 :| 
+V:3
+z |: G,B,D G,B,D | G,B,D G,B,D | D,A,C D,A,C | D,A,C D,A,C |$ G,B,D G,B,D | G,B,D G,B,D | 
+D,A,C D,A,C | [G,B,]2 z z z z |$ G,B,D G,B,D | G,B,D G,B,D | D,A,C D,A,C | D,A,C D,A,C |$ 
+G,B,D G,B,D | G,B,D G,B,D | D,A,C D,A,C | [G,B,]2 z z3 :| 
+
+
+
+X:13
+T:I Put My Little Hand In
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=100
+M:2/4
+I:linebreak $
+K:F
+V:1 treble nm="Violin"
+V:2 treble nm="Piano"
+V:3 bass 
+V:1
+C | FF F/F/F | F3 F | AA A/A/A | A3 F |$ cc c/c/c/c/ | cc cc/c/ | cB AG | F3 z |$ 
+w: I|puy my lit- tle hand|in, Ii|put my lit- tle hand|out, I|give my lit- tle hand a|shake, shake, shake, And I|turn my self a-|round.|
+[M:6/8][Q:3/8=100] FFF F2 A | c3- c2 z | FFF F2 A | c3- c2 z |$ FFF F2 A | c3- c2 z | cdc BAG | 
+w: Here we go loo- by-|loo, _|Here we go loo- by|la, _|Here we go loo- by|loo, _|All on a Sat- ur- day|
+F2 C C2 z | cdc BAG | F3- F2 z :| 
+w: night, Tra- la,|All on a Sat- ur- day|night. _|
+V:2
+C | [A,F]F F/F/F | [A,F]3 [CF] | [FA][FA] [FA]/[FA]/[FA] | [FA]3 [CF] |$ 
+[Fc][Fc] [Fc]/[Fc]/[Fc]/[Fc]/ | [Fc][Fc] [Fc][Fc]/[Fc]/ | [Ec][DB] [CA][B,G] | [A,F]3 z |$ 
+[M:6/8] FFF F2 A | [Fc]3- [Fc]2 z | FFF F2 A | [Fc]3- [Fc]2 z |$ FFF F2 A | [Fc]3- [Fc]2 z | 
+[Ec]dc [EB]AG | F2 C C2 z | [Ec]dc [EB]AG | [CF]3- [CF]2 z :| 
+V:3
+z | [F,,C,]2 [C,A,]2 | [F,,C,]2 [C,A,]2 | [F,,C,]2 [C,A,]2 | [F,,C,]2 [C,A,]2 |$ 
+[F,,C,]2 [C,A,]2 | [F,,C,]2 [C,A,]2 | [C,,C,]2 [C,,C,]2 | [F,,C,F,]3 z |$ 
+[M:6/8] [F,,C,]3 [C,F,A,]3 | [F,,C,]3 [C,F,A,]2 z | [F,,C,]3 [C,F,A,]3 | [F,,C,]3 [C,F,A,]2 z |$ 
+[F,,C,]3 [C,F,A,]3 | [F,,C,]3 [C,F,A,]2 z | [C,,C,]3 [C,E,B,]3 | [F,,C,]3 [C,F,A,]3 | 
+[C,,C,]3 [C,E,B,]3 | [F,A,]3- [F,A,]2 z :| 
+
+
+
+X:14
+T:Jennia Jones
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=110
+M:6/8
+I:linebreak $
+K:F
+V:1 treble nm="Violin"
+V:2 treble nm="Piano"
+V:3 bass 
+V:1
+C |:"F" F2 F F2 A | ccA F2 F |"C" GGG G2 G | EED C2 C |$ F2 F F2 A | ccA F2 F | G2 G C2 C | 
+w: We've|come to see Miss|Jen- ni- a Jones, miss|Jen- ni- a Jones, Miss|Jen- ni- a Jones, We've|come to see Miss|Jen- ni- a Jones, And|how is she to-|
+F3- F2 z | z4 z C |$"F" F2 F F2 A | ccA F2 F |"C" GGG G2 G | EED C2 C |$"F" F2 F F2 A | ccA F2 F | 
+w: day? _|We're|Right * glad to|hear * of it, *|hear * of it, to|hear * of it, We're|right * glad to|hear * of it, And|
+"C" G2 G C2 C |"F" F3- F2 z :| 
+w: how is she to-|day? _|
+V:2
+C |: [A,F]2 F [A,F]2 A | [Fc]cA [CF]2 F | [B,G]GG [B,G]2 G | EED [B,C]2 C |$ [A,F]2 F [A,F]2 A | 
+[Fc]cA [CF]2 F | [B,G]2 G [B,C]2 C | [A,F]3- [A,F]2 z | z6 |$ [A,F]2 F [A,F]2 A | [Fc]cA [CF]2 F | 
+[B,G]GG [B,G]2 G | EED [B,C]2 C |$ [A,F]2 F [A,F]2 A | [Fc]cA [CF]2 F | [B,G]2 G [B,C]2 C | 
+[A,F]3- [A,F]2 z :| 
+V:3
+z |: [F,,C,F,]3 [F,,C,F,]3 | [F,,C,F,]3 [F,,C,F,]3 | [C,E,G,]3 [C,E,G,]3 | [C,E,G,]3 [C,E,G,]3 |$ 
+[F,,C,F,]3 [F,,C,F,]3 | [F,,C,F,]3 [F,,C,F,]3 | [C,E,G,]3 [C,E,G,]3 | [F,,C,F,]3- [F,,C,F,]3 | 
+z6 |$ [F,,C,F,]3 [F,,C,F,]3 | [F,,C,F,]3 [F,,C,F,]3 | [C,E,G,]3 [C,E,G,]3 | [C,E,G,]3 [C,E,G,]3 |$ 
+[F,,C,F,]3 [F,,C,F,]3 | [F,,C,F,]3 [F,,C,F,]3 | [C,E,G,]3 [C,E,G,]3 | [F,,C,F,]3- [F,,C,F,]3 :| 
+
+
+
+X:15
+T:King's Land
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=80
+M:2/4
+I:linebreak $
+K:C
+V:1 treble nm="Violin"
+V:2 treble nm="Piano"
+V:3 bass 
+V:1
+|: G2 G>A | G2 E>F | G2 G>A | G3 z/ E/ |$ G2 G>A | G2 E>F | G>G G>G | E4 :| 
+w: I'm on the|King's land, The|King's not at|home! The|King's gone to|Bos- ton, To|buy his wife a|comb!|
+V:2
+|: [A,CEG]2 [CEG]>A | [A,CEG]2 [A,CE]>F | [A,CEG]2 [A,CEG]>A | [A,CEG]3 z/ E/ |$ [A,CEG]2 [CEG]>A | 
+[A,CEG]2 [A,CE]>F | [A,CEG]>G [A,CEG]>G | [A,CE]4 :| 
+V:3
+|: [C,,G,,C,]4 | [C,,G,,C,]4 | [C,,G,,C,]4 | [C,,G,,C,]4 |$ [C,,G,,C,]4 | [C,,G,,C,]4 | 
+[C,,G,,C,]4 | [C,,G,,C,]2 C,,2 :| 
+
+
+
+X:16
+T:Lazy Mary
+%%score 1 { 2 | 3 }
+L:1/8
+M:6/8
+I:linebreak $
+K:Bb
+V:1 treble nm="Violin"
+V:2 treble nm="Piano" snm="Pno."
+V:3 bass 
+V:1
+"Bb" B2 B BBd | f2 d B2 B |"F7" c2 c c2 c | A2 G F3 |$"Bb" B2 B BBd | f2 d B2 B |"F7" c2 c F2 F | 
+w: La- zy Ma- ry, will|you get up, Will|you get up, will|you get up?|La- zy Ma- ry, will|you get up, Will|you get up, to-|
+"Bb" B3- B2 F |$"Bb" B2 B BBd | f2 d B2 B |"F7" c2 c c2 c | A2 G F3 |$"Bb" B2 B BBd | f2 d B2 B | 
+w: day? _ _|No, my moth- er, I|won't get up, I|won't get up, I|won't get up.|No, my moth- er I|won't get up, I|
+"F7" c2 c F2 F |"Bb" B3- B2 z |] 
+w: won't get up to-|day. _|
+V:2
+[DB]2 B [DB]Bd | [Bf]2 d [FB]2 B | [Ec]2 c [Ec]2 c | [CA]2 G [CF]3 |$ [DB]2 B [FB]Bd | 
+[Bf]2 d [FB]2 B | [Ec]2 c [CF]2 F | [DB]3- [DB]2 z |$ [DB]2 B [DB]Bd | [Bf]2 d [FB]2 B | 
+[Ec]2 c [Ec]2 c | [CA]2 G [CF]3 |$ [DB]2 B [FB]Bd | [Bf]2 d [FB]2 B | [Ec]2 c [CF]2 F | 
+[DB]3- [DB]2 z |] 
+V:3
+[B,,F,B,]3 [D,F,B,]3 | [B,,F,B,]3 [D,F,B,]3 | [C,F,A,]3 [F,A,]3 | [F,,C,F,]3 [C,F,A,]3 |$ 
+[B,,F,B,]3 [D,F,B,]3 | [B,,F,B,]3 [D,F,B,]3 | [C,F,A,]3 [F,A,]3 | [B,,F,B,]3- [B,,F,B,]2 z |$ 
+[B,,F,B,]3 [D,F,B,]3 | [B,,F,B,]3 [D,F,B,]3 | [C,F,A,]3 [F,A,]3 | [F,,C,F,]3 [C,F,A,]3 |$ 
+[B,,F,B,]3 [D,F,B,]3 | [B,,F,B,]3 [D,F,B,]3 | [C,F,A,]3 [F,A,]3 | [B,,F,B,]3- [B,,F,B,]2 z |] 
+
+
+
+X:17
+T:London Bridge
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=90
+M:2/4
+I:linebreak $
+K:F
+V:1 treble nm="Violin"
+V:2 treble nm="Piano"
+V:3 bass 
+V:1
+"F" c>d cB | AB c2 |"C" GA B2 |"F" AB c2 |$"F" c>d cB | AB c2 |"C" G2 c>B |"F" AF F2 |$"F" c>d cB | 
+w: Lon- don bridge is|fall- ing down,|Fall- ing down,|fall- ing down,|Lon- don bridge is|fall- ing down,|My fair _|la- dy, O.|Off to pris- on|
+AB c2 |"C" GA B2 |"F" AB c2 |$"F" c>d cB | AB c2 |"C" G2 c>B |"F" AF F2 |] 
+w: you must go,|You must go,|you must go,|Off to pris- on|you must go,|My fair _|la- dy, O.|
+V:2
+[Ac]>[Bd] [Ac][GB] | [FA][GB] [Ac]2 | [EG][FA] [GB]2 | [FA][GB] [Ac]2 |$ [Ac]>[Bd] [Ac][GB] | 
+[FA][GB] [Ac]2 | [EG]2 [Ac]>[GB] | [FA][A,CF] [A,CF]2 |$ [Ac]>[Bd] [Ac][GB] | [FA][GB] [Ac]2 | 
+[EG][FA] [GB]2 | [FA][GB] [Ac]2 |$ [Ac]>[Bd] [Ac][GB] | [FA][GB] [Ac]2 | [EG]2 [Ac]>[GB] | 
+[FA][A,CF] [A,CF]2 |] 
+V:3
+[F,,F,]2 [F,,F,]2 | [F,,F,]2 [F,,F,]2 | [C,C]2 [C,C]2 | [F,,F,]2 [F,,F,]2 |$ [F,,F,]2 [F,,F,]2 | 
+[F,,F,]2 [F,,F,]2 | [C,C]2 [C,C]2 | [F,,F,]2 [F,,F,]2 |$ [F,,F,]2 [F,,F,]2 | [F,,F,]2 [F,,F,]2 | 
+[C,C]2 [C,C]2 | [F,,F,]2 [F,,F,]2 |$ [F,,F,]2 [F,,F,]2 | [F,,F,]2 [F,,F,]2 | [C,C]2 [C,C]2 | 
+[F,,F,]2 [F,,F,]2 |] 
+
+
+
+X:18
+T:Lucy Locket
+%%score 1 { 2 | ( 3 4 ) }
+L:1/8
+Q:1/4=90
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Violin"
+V:2 treble nm="Piano"
+V:3 bass 
+V:4 bass 
+V:1
+GGAB GBAD | GGAB G2 F2 |$ GGAB cBAG | FDEF G2 G z/ G/ |$ GGAB GBAD | GGAB G2 F z/ G/ |$ 
+w: Lu- cy Lock- et lost her pock- et,|Kit- ty Fish- er found it,|There was not a pen- ny in it,|on- ly rib- bon 'round it. I|wrote a let- ter to my love and|on my way I dropped it, A|
+GGAB cBAG | FDEF G2 G2 |] 
+w: lit- tle dog- gie picked it up and|put it in his pock- et.|
+V:2
+[DG]G[DA]B [DG]B[DA]D | [DG]G[DA]B [DG]2 [DF]2 |$ [DG]G[DA]B [Dc]BAG | [DF]D[CE]F [B,G]2 [B,G]2 |$ 
+[DG]G[DA]B [DG]B[DA]D | [DG]G[DA]B [DG]2 [DF]2 |$ [DG]G[DA]B [Dc]BAG | [DF]D[CE]F [B,G]2 [B,G]2 |] 
+V:3
+B,G,F,G, B,G,F,C | B,G,F,G, B,G, A,2 |$ B,G,F,G, A,DCB, | A,F,G, z [G,,D,G,]2 [G,,D,G,]2 |$ 
+B,G,F,G, B,G,F,C | B,G,F,G, B,G, A,2 |$ B,G,F,G, A,DCB, | A,F,G, z [G,,D,G,]2 [G,,D,G,]2 |] 
+V:4
+D,4 D,4 | D,4 D,4 |$ D,4 D,4 | D,2 C,A,, x4 |$ D,4 D,4 | D,4 D,4 |$ D,4 D,4 | D,2 C,A,, x4 |] 
+
+
+
+X:19
+T:Mulb'ry Bush
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=120
+M:6/8
+I:linebreak $
+K:G
+V:1 treble nm="Violin"
+V:2 treble nm="Piano"
+V:3 bass 
+V:1
+"G" GGG G2 B | d2 B G2 G |"D" A2 A A3 | F2 E D3 |$"G" GGG G2 B | d2 B G2 G |"D" A2 A DEF | 
+w: Here we go round the|mul- b'ry bush, The|mul- b'ry bush,|mul- b'ry bush,|Here we go round the|mul- b'ry bush, So|ear- ly in _ the|
+"G" G3 G2 z |$"G" GGG G2 B | d2 B G2 G |"D" A2 A A3 | F2 E D3 |$"G" GGG G2 B | d2 B G2 G | 
+w: morn- ing.|This is the way we|wash the clothes, *|Wash the clothes,|wash the clothes,|This is the way we|wash the clothes, So|
+"D" A2 A DEF |"G" G3 G2 z |] 
+w: ear- ly Mon- day morn-|ing. *|
+V:2
+GGG G2 B | d2 B G2 G | A2 A A3 | F2 E D3 |$ GGG G2 B | d2 B G2 G | A2 A DEF | G3 G2 z |$ 
+GGG G2 B | d2 B G2 G | A2 A A3 | F2 E D3 |$ GGG G2 B | d2 B G2 G | A2 A DEF | G3 G2 z |] 
+V:3
+G,,2 z [G,B,] z2 | G,,2 z [G,B,] z2 | D,2 z [D,C] z2 | D,2 z [D,C] z2 |$ G,,2 z [G,B,] z2 | 
+G,,2 z [G,B,] z2 | D,2 z [D,C] z2 | G,,2 z [G,B,] z2 |$ G,,2 z [G,B,] z2 | G,,2 z [G,B,] z2 | 
+D,2 z [D,C] z2 | D,2 z [D,C] z2 |$ G,,2 z [G,B,] z2 | G,,2 z [G,B,] z2 | D,2 z [D,C] z2 | 
+G,,2 z [G,B,] z2 |] 
+
+
+
+X:20
+T:My Fairey And My Forey
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=80
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Violin"
+V:2 treble nm="Piano"
+V:3 bass 
+V:1
+F>A FA ccFC | F>A cc d2 c2 |$ f>c dA ccFA | c>d cA G2 F2 |$ F>A FA ccFC | F>A cc d2 c2 |$ 
+w: Have you an- y bread and wine, my|fair- ey and my for- ey?|Have you an- y bread and wine, with-|in the gold- en stor- ey?|Yes, we have some brad and wine, my|fair- ey and my for- ey,|
+w: Let us have a pint of it, my|fair- ey and my for- ey,|Let us have a pint of it, with-|in the gold- en stor- ey.|Take your pint and go your way, my|fair- ey and my for- ey,|
+f>c dA ccFA | c>d cA G2 F2 |] 
+w: Yes, we have some bread and wine, with-|in the gold- en stor- ey.|
+w: Take your pint and go your way, with-|in the gold- en stor- ey.|
+V:2
+F>A FA [Ac][Ac]FC | F>A [Ac][Ac] [FBd]2 [FAc]2 |$ f>c dA ccFA | [Ac]>d [Ac][FA] [B,EG]2 [A,CF]2 |$ 
+F>A FA [Ac][Ac]FC | F>A [Ac][Ac] [FBd]2 [FAc]2 |$ f>c dA ccFA | [Ac]>d [Ac][FA] [B,EG]2 [A,CF]2 |] 
+V:3
+F,,2 [C,A,]2 F,,2 [C,A,]2 | F,,2 [C,A,]2 [B,,F,B,]2 [F,,C,F,]2 |$ F,,2 [C,A,]2 F,,2 [C,A,]2 | 
+F,,2 [C,A,]2 [C,,G,,C,]2 [F,,C,F,]2 |$ F,,2 [C,A,]2 F,,2 [C,A,]2 | 
+F,,2 [C,A,]2 [B,,F,B,]2 [F,,C,F,]2 |$ F,,2 [C,A,]2 F,,2 [C,A,]2 | 
+F,,2 [C,A,]2 [C,,G,,C,]2 [F,,C,F,]2 |] 
+
+
+
+X:21
+T:The Needle's Eye
+%%score 1 { ( 2 4 ) | ( 3 5 ) }
+L:1/8
+Q:1/4=100
+M:6/8
+I:linebreak $
+K:F
+V:1 treble nm="Violin"
+V:2 treble nm="Piano"
+V:4 treble 
+V:3 bass 
+V:5 bass 
+V:1
+F |: A2 A F2 F | B2 B B2 A | G2 G G2 G |$ A3 c2 B | A2 A F2 F | B2 c d2 d | c2 B A2 G |$ F3 FAB | 
+w: The|nee- dle's eye no|one can pass, the|thread that's drawn so|true; * It|has caught man- y|love- ly lass, And|now it has caught|you, * You _|
+c3 f3 | c3- cAB | c3 f3 | c3- c2 B |$ A2 A F2 F | B2 c d2 d | c2 B A G2 | F3- F2 z :| 
+w: look so|neat, * and you|kiss so|sweet, * We|do in- tend, Be-|fore we end, To|see this cou- ple|meet. _|
+V:2
+F |: A2 A F2 F | B2 B B2 A | G2 G G2 G |$ [CFA]3 [Fc]2 [CEB] | A2 A F2 F | [DB]2 [Fc] [Bd]2 [Fd] | 
+[Ec]2 [DB] [CEA]2 [B,EG] |$ [CF]3- [CF][FA][GB] | [FAc]3 [Fcf]3 | [FAc]3 [FAc][FA][GB] | 
+[FAc]3 [Fcf]3 | [FAc]3- [FAc]2 [CEB] |$ A2 A F2 F | [DB]2 [Fc] [Bd]2 [Fd] | 
+[Ec]2 [DB] [CEA]2 [B,EG] | [A,CF]3- [A,CF]2 z :| 
+V:3
+z |: F,,2 C, A,3 | G,,2 C, G,3 | C,2 C, B,3 |$ F,,2 C, A,3 | F,,2 C, A,3 | B,,2 F, B,2 C, | 
+C,3 C,,2 C, |$ F,,2 C, A,3 | [F,,F,]3 [C,A,]3 | [F,,F,]3 [C,A,]3 | [F,,F,]3 [C,A,]3 | 
+[F,,F,]3 [C,A,]2 G, |$ F,,2 C, A,3 | B,,2 F, B,2 B,, | C,3 C,,2 C, | F,2 C, F,,2 z :| 
+V:4
+x |: [CF]3 C3 | [CE]3 [CE]3 | [B,E]3 [CE]3 |$ x6 | [CF]3 C3 | x6 | x6 |$ x6 | x6 | x6 | x6 | x6 |$ 
+[CF]3 C3 | x6 | x6 | x6 :| 
+V:5
+x |: x3 A,2 A,, | x3 G,2 C, | x3 B,2 C, |$ x3 A,2 A,, | x3 A,2 A,, | x6 | x6 |$ x5 z | x6 | x6 | 
+x6 | x6 |$ x3 A,2 A,, | x6 | x6 | x6 :| 
+
+
+
+X:22
+T:Old Woman All Skin And Bone
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=130
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Violin"
+V:2 treble nm="Piano"
+V:3 bass 
+V:1
+D | G2 GG G G2 D | G2 G G4 D | _A4 G3 D | G2 GG G G2 D | G2 G G4 D | _A4 G3 D |$ G2 GG G G2 D | 
+w: There|was an old wom- an all|skin and bone *|* * She|went to the church- yard *|all a- lone. *||looked up * and looked *|
+[B,G]2 G G4 D | _A4 G3 D | [B,G]2 GG G G2 D | [B,G]2 G G4 D | _A4 G3 D |$ G2 GG G G2 D | 
+w: down. * * *|* * She|saw a corpse lie on the|ground. * * *||Fath- er * Fath- er *|
+G2 G G4 D | _A4 G3 D | [B,G]2 GG G G2 D | G2 G G4 D | _A4 G3 D |$ G2 GG G G2 D | G2 G G4 D | 
+w: so said she *||Shall i look so when I'm|dead * * *|* * The|sex- ton to her * *|made re ply *|
+_A4 G3 D | G2 GG G G2 D | G2 G G4 D | _A4 G3 D |] 
+w: |yes my dar ling * *|by and by *||
+V:2
+D | [B,G]2 GG G G2 D | [B,G]2 G G4 D | [C_E_A]4 [G,B,G]3 D | [B,G]2 GG G G2 D | [B,G]2 G G4 D | 
+[C_E_A]4 [G,B,G]3 D |$ [B,G]2 GG G G2 D | [B,G]2 G G4 D | [C_E_A]4 [G,B,G]3 D | [B,G]2 GG G G2 D | 
+[B,G]2 G G4 D | [C_E_A]4 [G,B,G]3 D |$ [B,G]2 GG G G2 D | [B,G]2 G G4 D | [C_E_A]4 [G,B,G]3 D | 
+[B,G]2 GG G G2 D | [B,G]2 G G4 D | [C_E_A]4 [G,B,G]3 D |$ [B,G]2 GG G G2 D | [B,G]2 G G4 D | 
+[C_E_A]4 [G,B,G]3 D | [B,G]2 GG G G2 D | [B,G]2 G G4 D | [C_E_A]4 [G,B,G]3 D |] 
+V:3
+z | [G,,D,G,]8 | [G,,D,G,]8 | [G,,_E,G,]4 [G,,D,G,]3 z | [G,,D,G,]8 | [G,,D,G,]8 | 
+[G,,_E,G,]4 [G,,D,G,]3 z |$ [G,,D,G,]8 | [G,,D,G,]8 | [G,,_E,G,]4 [G,,D,G,]3 z | [G,,D,G,]8 | 
+[G,,D,G,]8 | [G,,_E,G,]4 [G,,D,G,]3 z |$ [G,,D,G,]8 | [G,,D,G,]8 | [G,,_E,G,]4 [G,,D,G,]3 z | 
+[G,,D,G,]8 | [G,,D,G,]8 | [G,,_E,G,]4 [G,,D,G,]3 z |$ [G,,D,G,]8 | [G,,D,G,]8 | 
+[G,,_E,G,]4 [G,,D,G,]3 z | [G,,D,G,]8 | [G,,D,G,]8 | [G,,_E,G,]4 [G,,D,G,]3 z |] 
+
+
+
+X:23
+T:On the Green Carpet
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=110
+M:6/8
+I:linebreak $
+K:F
+V:1 treble nm="Violin"
+V:2 treble nm="Piano"
+V:3 bass 
+V:1
+|:"F" AAA A2 G | F2 F F3 |"C7" G2 B G2 A | G2 G G3 |$"F" A2 B c2 c | A2 B c2 A |"F" F2 G"C" A2 G | 
+w: On the green car- pet|here we stand,|Take your true love|by the hand,|Take the one that|you love best, Be-|fore you close your|
+"F" F2 F F3 |$"F" AAA AGG | F2 F F3 |"C7" G2 B G2 A | G2 G G3 |$ AAB c2 c | AAB c2 A | 
+w: eyes to rest.|Oh, what a beau- ti- ful|choice you've made!|Don't you wish you'd|long- er stayed?|Give her a kiss and|send her a- way, And|
+"F" FFG"C7" A2 G |"F" F2 F F3 :| 
+w: tell her you can no|long- er stay.|
+V:2
+|: [CFA]AA [CFA]GG | [A,CF]2 F [A,CF]3 | [CEG]2 B [CEG]2 A | [CEG]2 G [EG]3 |$ [CFA]2 B [FAc]2 c | 
+[CFA]2 B [FAc]2 A | [A,CF]2 G [CEA]2 G | [A,CF]2 F [A,CF]3 |$ [CFA]AA [CFA]GG | 
+[A,CF]2 F [A,CF]3 | [CEG]2 B [CEG]2 A | [CEG]2 G [EG]3 |$ [CFA]2 B [FAc]2 c | [CFA]2 B [FAc]2 A | 
+[A,CF]2 G [CEA]2 G | [A,CF]2 F [A,CF]3 :| 
+V:3
+|: F,,2 C, A,2 z | F,,2 C, A,2 z | C,2 G, E2 z | C,2 G, E2 z |$ F,,2 C, A,2 z | F,,2 C, A,2 z | 
+F,,2 F, C,2 C | F,,2 C, A,2 z |$ F,,2 C, A,2 z | F,,2 C, A,2 z | C,2 G, E2 z | C,2 G, E2 z |$ 
+F,,2 C, A,2 z | F,,2 C, A,2 z | F,,2 C, A,2 z | F,,2 C, A,2 z :| 
+
+
+
+X:24
+T:Poor Mary Sits A Weeping
+%%score 1 { 2 | 3 }
+L:1/8
+Q:1/4=120
+M:6/8
+I:linebreak $
+K:F
+V:1 treble nm="Violin"
+V:2 treble nm="Piano" snm="Pno."
+V:3 bass 
+V:1
+C |:"F" F2 G A2 B | c3 A2 A |"C" B3 G2 G | E3 C2 C |$"F" F2 G A2 B | c3 A2 A |"C" B2 B G2 E | 
+w: Poor|Ma- ry sits a-|weep- ing, A-|weep- ing, a-|weep- ing, Poor|Ma- ry sits a-|weep- ing, All|on a sum- mer's|
+w: Poor|Ma- ry, choose a|sweet- heart, a|sweet- heart, a|sweet- heart, Poor|Ma- ry choose a|sweet- heart, All|on a sum- mer's|
+"F" F3- F2 F |$"F" F2 G A2 B | c3 A2 A |"C" B3 G2 G | E3 C2 C |$"F" F2 G A2 B | c3 A2 A | 
+w: day. * I'm|weep- ing for a|sweet heart A|sweet- heart, a|sweet- heart, I'm|weep- ing for a|sweet- heart, All|
+w: day. * I'll|choose ??? for a|sweet- heart, a|sweet- heart, a|sweet- heart. I'll|choose ?? for a|sweet- heart, All|
+"C" B2 B G2 E |"F" F3- F2 z :| 
+w: on a sum- mer's|day. _|
+w: on a sum- mer's|day. _|
+V:2
+C |: [A,CF]2 G [FA]2 B | [Ac]3 [FA]2 A | [GB]3 [EG]2 G | [CE]3 C2 C |$ [A,CF]2 G [FA]2 B | 
+[Ac]3 [FA]2 A | [EB]2 B [EG]2 E | [A,F]3- [A,F]2 z |$ [A,CF]2 G [FA]2 B | [Ac]3 [FA]2 A | 
+[GB]3 [EG]2 G | [CE]3 C2 C |$ [A,CF]2 G [FA]2 B | [Ac]3 [FA]2 A | [EB]2 B [EG]2 E | 
+[A,F]3- [A,F]2 z :| 
+V:3
+z |: F,,2 C, A,2 z | F,,2 C, A,2 z | C,2 G, E2 z | C,2 G, E2 z |$ F,,2 C, A,2 z | F,,2 C, A,2 z | 
+C,2 G, E2 z | F,,2 C, A,2 z |$ F,,2 C, A,2 z | F,,2 C, A,2 z | C,2 G, E2 z | C,2 G, E2 z |$ 
+F,,2 C, A,2 z | F,,2 C, A,2 z | C,2 G, E2 z | F,,2 C, A,2 z :| 
+
+
+
+X:25
+T:Ring Around O Rosies
+%%score 1 { 2 | 3 }
+L:1/8
+M:6/8
+I:linebreak $
+K:G
+V:1 treble nm="Violin"
+V:2 treble nm="Piano" snm="Pno."
+V:3 bass 
+V:1
+"G" G2 G G2 A | G3 D2 D |"G" G2 G G2 A | G3 D3 |$"G" [B,G]3 D3 |"G" [B,G]3 D3 | 
+w: Ring a- round o'|ro- sies, A|pocl- et full of|po- sies!|Hop scotch,|hop schotch,|
+"G" [DGB]3"D" [CFA]3 |"G" [B,DG]3 z z2 |$"G" G2 G G2 A | G3 D2 D |"G" G2 G G2 A | G3 D3 |$ 
+w: All fall|down!|Ring a- round o'|ro- sies, A|pocl- et full of|po- sies!|
+"G" [B,G]3 D3 |"G" [B,G]3 D3 |"G" [DGB]3"D" [CFA]3 |"G" [B,DG]3 z z2 |] 
+w: Hop scotch,|hop schotch,|All fall|down!|
+V:2
+G2 G G2 A | G3 D2 D | G2 G G2 A | G3 D3 |$ [B,G]3 D3 | [B,G]3 D3 | [DGB]3 [CFA]3 | [B,DG]3 z z2 |$ 
+G2 G G2 A | G3 D2 D | G2 G G2 A | G3 D3 |$ [B,G]3 D3 | [B,G]3 D3 | [DGB]3 [CFA]3 | [B,DG]3 z z2 |] 
+V:3
+G,,2 D, [G,B,]2 z | G,,2 D, [G,B,]2 z | G,,2 D, [G,B,]2 z | G,,2 D, [G,B,]2 z |$ 
+G,,2 D, [G,B,]2 z | G,,2 D, [G,B,]2 z | [G,,D,]3 [D,,D,]3 | [G,,D,]3 z z2 |$ G,,2 D, [G,B,]2 z | 
+G,,2 D, [G,B,]2 z | G,,2 D, [G,B,]2 z | G,,2 D, [G,B,]2 z |$ G,,2 D, [G,B,]2 z | 
+G,,2 D, [G,B,]2 z | [G,,D,]3 [D,,D,]3 | [G,,D,]3 z z2 |] 
+
+
+
+X:26
+T:Shall I Show You How The Farmer?
+%%score 1 { 2 | 3 }
+L:1/4
+Q:1/4=110
+M:3/4
+I:linebreak $
+K:G
+V:1 treble nm="Violin"
+V:2 treble nm="Piano"
+V:3 bass 
+V:1
+G/>G/ | d d d/>e/ | d B G/>A/ | B B B/>c/ | B G E/>D/ |$ G G A/>A/ | B d G/>B/ | A c F | 
+w: Shall I|show you how the|farm- er, Shall I|show you how the|farm- er, Shall i|show you how the|farm- er Sows his|bar- ley and|
+G2 G/>G/ |$ [Gd] [Gd] [Gd]/>e/ | [Gd] [DB] G/>A/ | [DB] [DB] [DB]/>c/ | [DB] [DG] E/>D/ |$ 
+w: wheat? It is|so so that the|farm- er, it is|so so that the|farm- er It is|
+[B,G] [DG] [FA]/>A/ | [DB] [Gd] [DG]/>B/ | [CA] [Fc] [DF] | [B,G]2 z |] 
+w: so so that the|farm- er Sows his|bar- ley and|wheat!|
+V:2
+G/>G/ | [Gd] [Gd] [Gd]/>e/ | [Gd] [DB] G/>A/ | [DB] [DB] [DB]/>c/ | [DB] [DG] E/>D/ |$ 
+[B,G] [DG] [FA]/>A/ | [DB] [Gd] [DG]/>B/ | [CA] [Fc] [DF] | [B,G]2 z |$ [Gd] [Gd] [Gd]/>e/ | 
+[Gd] [DB] G/>A/ | [DB] [DB] [DB]/>c/ | [DB] [DG] E/>D/ |$ [B,G] [DG] [FA]/>A/ | 
+[DB] [Gd] [DG]/>B/ | [CA] [Fc] [DF] | [B,G]2 z |] 
+V:3
+z | G,, [D,G,B,] [D,G,B,] | G,, [D,G,B,] [D,G,B,] | G,, [D,G,B,] [D,G,B,] | 
+G,, [D,G,B,] [D,F,C] |$ G,, [D,G,B,] [D,A,C] | G,, [D,G,B,] [D,G,B,] | D,, [D,F,C] [D,F,C] | 
+[G,,D,G,]2 z |$ G,, [D,G,B,] [D,G,B,] | G,, [D,G,B,] [D,G,B,] | G,, [D,G,B,] [D,G,B,] | 
+G,, [D,G,B,] [D,F,C] |$ G,, [D,G,B,] [D,A,C] | G,, [D,G,B,] [D,G,B,] | D,, [D,F,C] [D,F,C] | 
+[G,,D,G,]2 z |] 
+
+
